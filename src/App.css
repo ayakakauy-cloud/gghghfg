@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111827;
+  color: gray;
+}
+
+.container {
+  text-align: center;
+  margin-top: 150px;
+}
+
+h1 {
+  font-size: 45px;
+  color: pink;
+}
+
+p {
+  font-size: 20px;
+  color: #d1d5db;
+}
+
+button {
+  padding: 12px 25px;
+  background: red;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
